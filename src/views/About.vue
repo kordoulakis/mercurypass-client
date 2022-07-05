@@ -42,23 +42,6 @@
 
         </div>
     </section>
-
-    <section class="members">
-        <div class="container members-container">
-            <div class="heading">
-                <h1>Our Team</h1>
-            </div>
-            <div class="cards">
-                <div class="members-card">
-                    <img src="../assets/ilias.jpg" alt="Image" class="image">
-                    <div class="overlay">
-                        <div>Ilias Kordoulas</div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
     <Contact />
 
 </template>

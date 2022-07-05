@@ -38,8 +38,6 @@ body {
   padding: 0;
 }
 
-
-
 .app-container {
   display: flex;
   flex-direction: column;
