@@ -1,7 +1,10 @@
 # MercuryPass Client
 Mercury Pass is a full stack project that was designed based on the guidelines of the university class "Web Systems".
-This is the front-end side of it.
-Website can be accessed at [mercury-eu](https://mercury-eu.web.app)
+This is the front-end side of it.   
+Website can be accessed at [mercury-eu](https://mercury-eu.web.app)  
+
+# Description  
+
 
 # Technologies
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/250px-Vue.js_Logo_2.svg.png" width="200">
