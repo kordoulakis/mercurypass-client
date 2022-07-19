@@ -11,9 +11,11 @@ Then they can "buy" a pass for a specific country.
 A very basic admin console has also been implemented but is not accessible for public use.  
 
 # Technologies
+<p>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/250px-Vue.js_Logo_2.svg.png" width="200">
-<img src="https://pinia.vuejs.org/logo.svg" width="50">
+<img src="https://pinia.vuejs.org/logo.svg" width="200px">
 <img src="https://firebase.google.com/static/images/brand-guidelines/logo-built_white.png" width="300">
+</p>  
 
 ***Vue3*** with composition api and `<script setup>`  
 ***Pinia*** for state management  
