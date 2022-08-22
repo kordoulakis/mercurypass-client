@@ -1,7 +1,7 @@
 # MercuryPass Client
 Mercury Pass is a full stack project that was designed based on the guidelines of the university class "Web Systems".
 This is the front-end side of it.   
-Website can be accessed at [mercury-pass](mercurypass-ecd47.web.app)  
+Website can be accessed at [mercury-pass](https://mercurypass-ecd47.web.app/)  
 
 # Description  
 Mercury Pass represents a more elegant future where a traveller in Europe can use public transport easily and transparently.  
